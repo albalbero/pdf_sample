@@ -1,3 +1,6 @@
+# OBIETTIVO
+Creare un QR code che, se scannerizzato, reindirizza ad un PDF o ad un file qualsiasi usando Github.
+
 # COME FARE
 1. Prepara il PDF e rinominalo con qualcosa di breve (menu.pdf o simili)
 2. Crea una nuova repository (+ in alto a dx)
